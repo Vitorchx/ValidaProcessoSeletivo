@@ -18,6 +18,6 @@ public class ProcessoSeletivo {
         else {
             System.out.println("Aguardando o resultado dos demais candidatos");
         }
-
+        System.out.println("teste");
     }
 }
